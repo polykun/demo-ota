@@ -1,0 +1,1 @@
+import{d as o,c as a,a as e,t as s,o as c}from"./CqAVyZEI.js";const n={class:"mb-8"},i={class:"text-3xl font-bold text-gray-900 mb-2"},r={class:"text-lg text-gray-600"},p=o({__name:"SectionHeader",props:{title:{},description:{}},setup(t){return(l,d)=>(c(),a("div",n,[e("h1",i,s(t.title),1),e("p",r,s(t.description),1)]))}});export{p as _};
