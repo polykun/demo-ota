@@ -1,0 +1,1 @@
+import{O as c,o as n,c as r,P as p,y as u,l as d,U as e}from"./Q3q_fYNM.js";const m={base:"bg-muted"},h={__name:"Thead",props:{class:{type:null,required:!1}},setup(s){const a=s,t=c(),o=d(()=>e({extend:e(m),...t.uiPro?.prose?.thead||{}}));return(l,i)=>(n(),r("thead",{class:u(o.value({class:a.class}))},[p(l.$slots,"default")],2))}};export{h as default};

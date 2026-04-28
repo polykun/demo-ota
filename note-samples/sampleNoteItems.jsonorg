@@ -1,0 +1,1505 @@
+{
+  "stickies": [
+    {
+      "id": "sticky-apr-001",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4
+        },
+        "targetKey": "2026-04"
+      },
+      "title": "連休前、帳場と送迎に火種",
+      "description": "203・離れ・送迎・番頭対応。今月は“印”より本文側で進める。",
+      "glp": {
+        "x": 0.1,
+        "y": 0.08,
+        "w": 0.2,
+        "h": 0.11,
+        "rotationDeg": -2
+      },
+      "presentation": "floating",
+      "tone": "red",
+      "bookmarkFlag": true
+    },
+    {
+      "id": "sticky-may-001",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5
+        },
+        "targetKey": "2026-05"
+      },
+      "title": "203・離れ・送迎が噛み合い始める",
+      "description": "真相は一つではない。5月は手帳の右側で少しずつ深くする。",
+      "glp": {
+        "x": 0.24,
+        "y": 0.62,
+        "w": 0.2,
+        "h": 0.11,
+        "rotationDeg": 1.5
+      },
+      "presentation": "floating",
+      "tone": "orange",
+      "bookmarkFlag": true
+    },
+    {
+      "id": "sticky-jun-001",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6
+        },
+        "targetKey": "2026-06"
+      },
+      "title": "答えを持って帰る客がいる",
+      "description": "謝罪して終わる話と、宿に残り続ける話が並ぶ。",
+      "glp": {
+        "x": 0.08,
+        "y": 0.73,
+        "w": 0.19,
+        "h": 0.1,
+        "rotationDeg": -1.2
+      },
+      "presentation": "floating",
+      "tone": "gray"
+    },
+    {
+      "id": "sticky-0424-empty-seat",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 24
+        },
+        "targetKey": "2026-04-24"
+      },
+      "title": "17:20便に1人乗っていない",
+      "description": "倉持美月の名簿あり。昼便の別名客とつながる可能性。",
+      "glp": {
+        "x": 0.62,
+        "y": 0.1,
+        "w": 0.23,
+        "h": 0.11,
+        "rotationDeg": 0.8
+      },
+      "presentation": "floating",
+      "tone": "blue",
+      "bookmarkFlag": true
+    },
+    {
+      "id": "sticky-0425-ledger-only",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        },
+        "targetKey": "2026-04-25"
+      },
+      "title": "203予約は台帳にしかない",
+      "description": "電話にもOTAにも無い。筆跡は女将。",
+      "glp": {
+        "x": 0.74,
+        "y": 0.23,
+        "w": 0.18,
+        "h": 0.1,
+        "rotationDeg": -1.0
+      },
+      "presentation": "floating",
+      "tone": "red"
+    },
+    {
+      "id": "sticky-0430-record-split",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 30
+        },
+        "targetKey": "2026-04-30"
+      },
+      "title": "もう来ている？ まだ来ていない？",
+      "description": "昼便の別名客と最終便の未着客。記録が二つに割れる。",
+      "glp": {
+        "x": 0.58,
+        "y": 0.69,
+        "w": 0.24,
+        "h": 0.11,
+        "rotationDeg": 1.2
+      },
+      "presentation": "floating",
+      "tone": "orange"
+    },
+    {
+      "id": "sticky-0515-floor-scratch",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 15
+        },
+        "targetKey": "2026-05-15"
+      },
+      "title": "離れの床下に擦れ跡",
+      "description": "建具の歪みだけでは説明しにくい。人が探った痕に見える。",
+      "glp": {
+        "x": 0.66,
+        "y": 0.18,
+        "w": 0.22,
+        "h": 0.11,
+        "rotationDeg": -0.8
+      },
+      "presentation": "floating",
+      "tone": "blue"
+    },
+    {
+      "id": "sticky-0519-portrait-man",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 19
+        },
+        "targetKey": "2026-05-19"
+      },
+      "title": "遺影を持つ男が203を指名",
+      "description": "早川真司。写真の人物は“恒一”。宿側の空気が変わる。",
+      "glp": {
+        "x": 0.72,
+        "y": 0.09,
+        "w": 0.22,
+        "h": 0.11,
+        "rotationDeg": -1.5
+      },
+      "presentation": "floating",
+      "tone": "gray",
+      "bookmarkFlag": true
+    },
+    {
+      "id": "sticky-0523-not-box",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        },
+        "targetKey": "2026-05-23"
+      },
+      "title": "先代の金庫ではないかもしれない",
+      "description": "“金庫”より、隠しておきたい紙の束を疑うべき。",
+      "glp": {
+        "x": 0.57,
+        "y": 0.59,
+        "w": 0.25,
+        "h": 0.11,
+        "rotationDeg": 1.8
+      },
+      "presentation": "floating",
+      "tone": "pink"
+    },
+    {
+      "id": "sticky-0527-father-name",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 27
+        },
+        "targetKey": "2026-05-27"
+      },
+      "title": "父の名は恒一",
+      "description": "宿帳の古い記録と遺影の人物名が重なった。",
+      "glp": {
+        "x": 0.7,
+        "y": 0.28,
+        "w": 0.18,
+        "h": 0.1,
+        "rotationDeg": -0.6
+      },
+      "presentation": "floating",
+      "tone": "gray"
+    },
+    {
+      "id": "sticky-0601-letters",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 1
+        },
+        "targetKey": "2026-06-01"
+      },
+      "title": "椿の床下から手紙束",
+      "description": "宛名は“芙美子へ”。金庫の話は隠れ蓑だった。",
+      "glp": {
+        "x": 0.61,
+        "y": 0.12,
+        "w": 0.23,
+        "h": 0.11,
+        "rotationDeg": -1.1
+      },
+      "presentation": "floating",
+      "tone": "gray",
+      "bookmarkFlag": true
+    },
+    {
+      "id": "sticky-0602-tailing",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 2
+        },
+        "targetKey": "2026-06-02"
+      },
+      "title": "再会ではなく尾行だった",
+      "description": "送迎の空席は、逃げた婚約者の居場所を確かめるためのもの。",
+      "glp": {
+        "x": 0.76,
+        "y": 0.58,
+        "w": 0.19,
+        "h": 0.1,
+        "rotationDeg": 0.9
+      },
+      "presentation": "floating",
+      "tone": "red"
+    },
+    {
+      "id": "sticky-tag-001",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 20
+        },
+        "targetKey": "2026-04-20"
+      },
+      "title": "203",
+      "description": "使用禁止部屋の入口印",
+      "presentation": "calendar_tag",
+      "tone": "red"
+    },
+    {
+      "id": "sticky-tag-002",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 21
+        },
+        "targetKey": "2026-04-21"
+      },
+      "title": "膳",
+      "description": "特別膳の印",
+      "presentation": "calendar_tag",
+      "tone": "orange"
+    },
+    {
+      "id": "sticky-tag-003",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 22
+        },
+        "targetKey": "2026-04-22"
+      },
+      "title": "離れ",
+      "description": "離れ椿の印",
+      "presentation": "calendar_tag",
+      "tone": "blue"
+    },
+    {
+      "id": "sticky-tag-004",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 23
+        },
+        "targetKey": "2026-04-23"
+      },
+      "title": "常連",
+      "description": "番頭対応客の印",
+      "presentation": "calendar_tag",
+      "tone": "yellow"
+    },
+    {
+      "id": "sticky-tag-005",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 24
+        },
+        "targetKey": "2026-04-24"
+      },
+      "title": "送迎",
+      "description": "未着送迎の印",
+      "presentation": "calendar_tag",
+      "tone": "blue"
+    },
+    {
+      "id": "sticky-tag-006",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 5
+        },
+        "targetKey": "2026-05-05"
+      },
+      "title": "子膳",
+      "description": "子ども膳の印",
+      "presentation": "calendar_tag",
+      "tone": "yellow"
+    },
+    {
+      "id": "sticky-tag-007",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 12
+        },
+        "targetKey": "2026-05-12"
+      },
+      "title": "旧姓",
+      "description": "旧姓で呼ばれた日の印",
+      "presentation": "calendar_tag",
+      "tone": "pink"
+    },
+    {
+      "id": "sticky-tag-008",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 17
+        },
+        "targetKey": "2026-05-17"
+      },
+      "title": "湯",
+      "description": "朝風呂の印",
+      "presentation": "calendar_tag",
+      "tone": "blue"
+    },
+    {
+      "id": "sticky-tag-009",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 19
+        },
+        "targetKey": "2026-05-19"
+      },
+      "title": "203",
+      "description": "203指名客の印",
+      "presentation": "calendar_tag",
+      "tone": "red"
+    },
+    {
+      "id": "sticky-tag-010",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 21
+        },
+        "targetKey": "2026-05-21"
+      },
+      "title": "膳",
+      "description": "特別膳回収の印",
+      "presentation": "calendar_tag",
+      "tone": "orange"
+    },
+    {
+      "id": "sticky-tag-011",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 27
+        },
+        "targetKey": "2026-05-27"
+      },
+      "title": "宿帳",
+      "description": "古い宿帳が繋がる日の印",
+      "presentation": "calendar_tag",
+      "tone": "gray"
+    },
+    {
+      "id": "sticky-tag-012",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 1
+        },
+        "targetKey": "2026-06-01"
+      },
+      "title": "手紙",
+      "description": "手紙束の印",
+      "presentation": "calendar_tag",
+      "tone": "gray"
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": "bookmark-left-2026-03",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 3
+        },
+        "targetKey": "2026-03"
+      },
+      "edge": "left",
+      "order": 40,
+      "tone": "blue"
+    },
+    {
+      "id": "bookmark-left-2026-04",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4
+        },
+        "targetKey": "2026-04"
+      },
+      "edge": "left",
+      "order": 41,
+      "tone": "red"
+    },
+    {
+      "id": "bookmark-left-2026-05",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5
+        },
+        "targetKey": "2026-05"
+      },
+      "edge": "left",
+      "order": 42,
+      "tone": "orange"
+    },
+    {
+      "id": "bookmark-left-2026-06",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6
+        },
+        "targetKey": "2026-06"
+      },
+      "edge": "left",
+      "order": 43,
+      "tone": "yellow"
+    }
+  ],
+  "goals": [
+    {
+      "id": "goal-2026-04-1",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4
+        },
+        "targetKey": "2026-04"
+      },
+      "label": "連休前の部屋・送迎・帳場トラブルを表に出さない",
+      "tone": "red"
+    },
+    {
+      "id": "goal-2026-04-2",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4
+        },
+        "targetKey": "2026-04"
+      },
+      "label": "板場の特別対応を客の不満に変えない",
+      "tone": "orange"
+    },
+    {
+      "id": "goal-2026-04-3",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4
+        },
+        "targetKey": "2026-04"
+      },
+      "label": "番頭対応客で失礼を出さない",
+      "tone": "yellow"
+    },
+    {
+      "id": "goal-2026-05-1",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5
+        },
+        "targetKey": "2026-05"
+      },
+      "label": "東棟203の件を穏便に済ませる",
+      "tone": "red"
+    },
+    {
+      "id": "goal-2026-05-2",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5
+        },
+        "targetKey": "2026-05"
+      },
+      "label": "離れ・椿の夜間異常を確認する",
+      "tone": "blue"
+    },
+    {
+      "id": "goal-2026-05-3",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5
+        },
+        "targetKey": "2026-05"
+      },
+      "label": "送迎記録の食い違いを回収する",
+      "tone": "blue"
+    },
+    {
+      "id": "goal-2026-06-1",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6
+        },
+        "targetKey": "2026-06"
+      },
+      "label": "宿帳の古い案件を整理する",
+      "tone": "gray"
+    },
+    {
+      "id": "goal-2026-06-2",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6
+        },
+        "targetKey": "2026-06"
+      },
+      "label": "203・離れ・帳場の三件を若旦那に説明する",
+      "tone": "yellow"
+    },
+    {
+      "id": "goal-2026-06-3",
+      "target": {
+        "kind": "month",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6
+        },
+        "targetKey": "2026-06"
+      },
+      "label": "常連対応を最後まで荒らさない",
+      "tone": "green"
+    }
+  ],
+  "todos": [
+    {
+      "id": "todo-0420-203",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 20
+        },
+        "targetKey": "2026-04-20"
+      },
+      "label": "東棟203の予約内容を確認",
+      "subLabel": "使用禁止部屋に未来日予約",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-E203-0519"
+      }
+    },
+    {
+      "id": "todo-0421-special",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 21
+        },
+        "targetKey": "2026-04-21"
+      },
+      "label": "特別膳の出所確認",
+      "subLabel": "板長の独断か確認",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "BK-20260416-0401"
+      }
+    },
+    {
+      "id": "todo-0422-key",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 22
+        },
+        "targetKey": "2026-04-22"
+      },
+      "label": "離れ・椿の鍵点検",
+      "subLabel": "内側から閉まる件",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZDY-TSUBAKI-0422"
+      }
+    },
+    {
+      "id": "todo-0423-ledger",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 23
+        },
+        "targetKey": "2026-04-23"
+      },
+      "label": "沢渡妙子の客歴照合",
+      "subLabel": "番頭対応客",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-TAEKO-0423"
+      }
+    },
+    {
+      "id": "todo-0424-empty",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 24
+        },
+        "targetKey": "2026-04-24"
+      },
+      "label": "17:20便の未着確認",
+      "subLabel": "倉持美月 / 別名予約の有無",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZ-20260418-3301"
+      }
+    },
+    {
+      "id": "todo-0425-ledgeronly",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        },
+        "targetKey": "2026-04-25"
+      },
+      "label": "203予約経路を洗う",
+      "subLabel": "電話・OTA・台帳照合",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-E203-0519"
+      }
+    },
+    {
+      "id": "todo-0427-wallet",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 27
+        },
+        "targetKey": "2026-04-27"
+      },
+      "label": "露天財布の持ち主確認",
+      "subLabel": "堂本俊介 / ラウンジ利用",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "WALLET-0427"
+      }
+    },
+    {
+      "id": "todo-0430-name",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 30
+        },
+        "targetKey": "2026-04-30"
+      },
+      "label": "藤沢美咲の名義照合",
+      "subLabel": "昼便で先入りした客",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZ-20260418-3302"
+      }
+    },
+    {
+      "id": "todo-0502-obi",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 2
+        },
+        "targetKey": "2026-05-02"
+      },
+      "label": "浴衣帯の件を本人確認",
+      "subLabel": "女子旅の二人",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "OBI-0502"
+      }
+    },
+    {
+      "id": "todo-0505-kodomo",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 5
+        },
+        "targetKey": "2026-05-05"
+      },
+      "label": "子ども膳の継続可否確認",
+      "subLabel": "山百合の間 / 白石紀代",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-CHILD-0505"
+      }
+    },
+    {
+      "id": "todo-0508-ring",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 8
+        },
+        "targetKey": "2026-05-08"
+      },
+      "label": "指輪の持ち主確認",
+      "subLabel": "男湯の忘れ物",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "BK-20260501-1701"
+      }
+    },
+    {
+      "id": "todo-0510-203hold",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 10
+        },
+        "targetKey": "2026-05-10"
+      },
+      "label": "東棟203の使用可否判断",
+      "subLabel": "満室前に判断が必要",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-E203-0519"
+      }
+    },
+    {
+      "id": "todo-0512-oldname",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 12
+        },
+        "targetKey": "2026-05-12"
+      },
+      "label": "月見の間 客歴確認",
+      "subLabel": "若女将を旧姓で呼ぶ常連",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-OLDNAME-0512"
+      }
+    },
+    {
+      "id": "todo-0515-floor",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 15
+        },
+        "targetKey": "2026-05-15"
+      },
+      "label": "離れ・椿の床下確認",
+      "subLabel": "擦れ跡あり",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZDY-TSUBAKI-0422"
+      }
+    },
+    {
+      "id": "todo-0516-route",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        },
+        "targetKey": "2026-05-16"
+      },
+      "label": "鳴海悠人の館内動線確認",
+      "subLabel": "見張りの件",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZ-20260417-3303"
+      }
+    },
+    {
+      "id": "todo-0517-bath",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 17
+        },
+        "targetKey": "2026-05-17"
+      },
+      "label": "朝風呂客の体調確認",
+      "subLabel": "高岡七海 / 朝食部屋出し",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "BATH-0517"
+      }
+    },
+    {
+      "id": "todo-0519-roomprep",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 19
+        },
+        "targetKey": "2026-05-19"
+      },
+      "label": "203号の客室準備",
+      "subLabel": "遺影持参客が来る",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-E203-0519"
+      }
+    },
+    {
+      "id": "todo-0521-plate",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 21
+        },
+        "targetKey": "2026-05-21"
+      },
+      "label": "特別膳の理由確認",
+      "subLabel": "板長へ直接確認",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "BK-20260416-0401"
+      }
+    },
+    {
+      "id": "todo-0523-blueprint",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        },
+        "targetKey": "2026-05-23"
+      },
+      "label": "離れ・椿の構造図確認",
+      "subLabel": "先代金庫の噂",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZDY-TSUBAKI-0422"
+      }
+    },
+    {
+      "id": "todo-0524-safe",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 24
+        },
+        "targetKey": "2026-05-24"
+      },
+      "label": "母子客の別導線確保",
+      "subLabel": "見覚えのない迎え札",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZ-20260518-4301"
+      }
+    },
+    {
+      "id": "todo-0526-banto",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 26
+        },
+        "targetKey": "2026-05-26"
+      },
+      "label": "番頭へ聞き取り",
+      "subLabel": "沢渡妙子の件",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-TAEKO-0423"
+      }
+    },
+    {
+      "id": "todo-0527-ledger",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 27
+        },
+        "targetKey": "2026-05-27"
+      },
+      "label": "早川恒一の宿帳確認",
+      "subLabel": "203号の過去記録",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-E203-0519"
+      }
+    },
+    {
+      "id": "todo-0530-close",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
+        "targetKey": "2026-05-30"
+      },
+      "label": "特別膳の件を収束する",
+      "subLabel": "板長・客ともに荒らさない",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "BK-20260416-0401"
+      }
+    },
+    {
+      "id": "todo-0601-letters",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 1
+        },
+        "targetKey": "2026-06-01"
+      },
+      "label": "手紙束を保管",
+      "subLabel": "芙美子宛 / 離れ・椿",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZDY-TSUBAKI-0422"
+      }
+    },
+    {
+      "id": "todo-0602-tail",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 2
+        },
+        "targetKey": "2026-06-02"
+      },
+      "label": "未着客の件を回収",
+      "subLabel": "再会ではなく尾行",
+      "priority": "urgent",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "RZ-20260418-3301"
+      }
+    },
+    {
+      "id": "todo-0603-finish",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 3
+        },
+        "targetKey": "2026-06-03"
+      },
+      "label": "203号の件を締める",
+      "subLabel": "静かに終える",
+      "priority": "later",
+      "completed": false,
+      "sourceRef": {
+        "kind": "booking",
+        "id": "MAN-E203-0519"
+      }
+    }
+  ],
+  "memos": [
+    {
+      "id": "memo-0420",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 20
+        },
+        "targetKey": "2026-04-20"
+      },
+      "title": "帳場メモ",
+      "body": "東棟203に未来日の予約が入っている。連休前に使うなと何度も言われていた部屋だが、帳場では『女将確認済』の扱い。誰も強く触れたがらない。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0421",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 21
+        },
+        "targetKey": "2026-04-21"
+      },
+      "title": "板場メモ",
+      "body": "佐伯の席だけ、器も進行も違う。若旦那も女将も知らないと言うのに、板長だけが最初から段取りを決めていた。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0422",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 22
+        },
+        "targetKey": "2026-04-22"
+      },
+      "title": "夜間見回りメモ",
+      "body": "離れ・椿の客は鍵を閉めていないと言う。建具の歪みだけで説明するには、閉まり方が人の手に近い。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0423",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 23
+        },
+        "targetKey": "2026-04-23"
+      },
+      "title": "客歴メモ",
+      "body": "沢渡妙子の名を見て番頭だけが止まった。予約も支払いも完璧だが、昔の宿帳を一人で出していた。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0424",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 24
+        },
+        "targetKey": "2026-04-24"
+      },
+      "title": "送迎メモ",
+      "body": "17:20便の名簿には倉持美月。だが現地には姿がなく、館内では『もう来ている』と言う声もある。別名の昼便予約を洗う必要あり。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0425",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        },
+        "targetKey": "2026-04-25"
+      },
+      "title": "台帳照合メモ",
+      "body": "203号の予約は電話記録にもOTAにも出ない。帳場の手書き台帳だけにあり、筆跡は女将のもの。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0430",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 4,
+          "day": 30
+        },
+        "targetKey": "2026-04-30"
+      },
+      "title": "照合メモ",
+      "body": "藤沢美咲は昼便で先入り、倉持美月は最終便で未着。どちらも同日に同じ宿を使っている。偶然ではない。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0505",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 5
+        },
+        "targetKey": "2026-05-05"
+      },
+      "title": "厨房メモ",
+      "body": "山百合の間だけ、予約人数にない子ども膳を毎年出している。板場も帳場も『前からそうだから』で通している。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0508",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 8
+        },
+        "targetKey": "2026-05-08"
+      },
+      "title": "脱衣場メモ",
+      "body": "男湯の指輪は岡部拓海のものに見える。本人は露天付客室で別の女性と宿泊中、同じ日に篠原奈央も館内にいる。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0510",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 10
+        },
+        "targetKey": "2026-05-10"
+      },
+      "title": "稼働メモ",
+      "body": "満室が近いのに203だけ空け続けるのは不自然。女将は『まだ触らないで』とだけ言う。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0512",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 12
+        },
+        "targetKey": "2026-05-12"
+      },
+      "title": "若女将メモ",
+      "body": "真山恒一は若女将を旧姓で呼んだ。本人は笑って流したが、番頭が露骨に話題を切った。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0515",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 15
+        },
+        "targetKey": "2026-05-15"
+      },
+      "title": "離れ調査メモ",
+      "body": "離れ・椿の床下に新しい擦れ跡。夜だけ閉まる鍵の件と無関係とは思えない。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0519",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 19
+        },
+        "targetKey": "2026-05-19"
+      },
+      "title": "到着メモ",
+      "body": "早川真司が203を指名して到着。荷物は少なく、遺影だけを大事そうに持っていた。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0521",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 21
+        },
+        "targetKey": "2026-05-21"
+      },
+      "title": "板場裏メモ",
+      "body": "佐伯紀子は、板長の昔の名字を知っているようだった。料理の進みを見ている顔が、初見の客ではない。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0523",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        },
+        "targetKey": "2026-05-23"
+      },
+      "title": "古参メモ",
+      "body": "離れには先代が使った金庫があった、という話が古参の間でだけ通じる。鍵の件は笑って流されない。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0524",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 24
+        },
+        "targetKey": "2026-05-24"
+      },
+      "title": "送迎裏メモ",
+      "body": "小田切沙耶の名前を書いた迎え札を、宿と関係のない男が持っていた。子どもの荷物を見て宿を特定したらしい。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0526",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 26
+        },
+        "targetKey": "2026-05-26"
+      },
+      "title": "番頭メモ",
+      "body": "沢渡妙子の本名は秋月千春。三十年前、見合いから逃げる番頭見習いに夜行バス代を渡した相手だという。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0527",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 27
+        },
+        "targetKey": "2026-05-27"
+      },
+      "title": "宿帳メモ",
+      "body": "早川恒一は二十年前の豪雨の日に203へ泊まっていた。送迎の順を変えられ、怪我をした記録だけが抜けている。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0530",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
+        "targetKey": "2026-05-30"
+      },
+      "title": "料理場メモ",
+      "body": "特別膳は嫌がらせではなく、『自分が捨てた味』を最後に見せるための一皿だった。板長はそうとだけ言った。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0601",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 1
+        },
+        "targetKey": "2026-06-01"
+      },
+      "title": "回収メモ",
+      "body": "離れ・椿の床下から出たのは金庫ではなく手紙束。宛名は『芙美子へ』。先代の愛人宛てと思われる。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0602",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 2
+        },
+        "targetKey": "2026-06-02"
+      },
+      "title": "送迎回収メモ",
+      "body": "未着客の件は再会ではなく尾行だった。倉持美月は鳴海悠人を追って別名で先入りしていた。",
+      "source": "operator"
+    },
+    {
+      "id": "memo-0603",
+      "target": {
+        "kind": "day",
+        "targetDateYmdhms": {
+          "year": 2026,
+          "month": 6,
+          "day": 3
+        },
+        "targetKey": "2026-06-03"
+      },
+      "title": "締めメモ",
+      "body": "早川真司は203に一晩だけ泊まり、何も求めず帰った。沢渡妙子も同じ日に静かに発った。残ったのは宿側だけの記憶。",
+      "source": "operator"
+    }
+  ]
+}

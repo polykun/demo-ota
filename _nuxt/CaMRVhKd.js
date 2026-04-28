@@ -1,0 +1,1 @@
+import{O as n,o as p,c as r,P as c,y as u,l as i,U as s}from"./Q3q_fYNM.js";const m={base:"my-5 leading-7 text-pretty"},_={__name:"P",props:{class:{type:null,required:!1}},setup(e){const a=e,t=n(),o=i(()=>s({extend:s(m),...t.uiPro?.prose?.p||{}}));return(l,d)=>(p(),r("p",{class:u(o.value({class:a.class}))},[c(l.$slots,"default")],2))}};export{_ as default};

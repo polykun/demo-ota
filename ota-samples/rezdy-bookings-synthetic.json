@@ -1,0 +1,140 @@
+{
+  "_meta": {
+    "source": "rezdy",
+    "transportMode": "api_poll",
+    "confidence": "synthetic_based_on_public_booking_schema",
+    "capturedAt": "2026-04-20T00:00:00Z",
+    "notes": [
+      "Story-driven synthetic booking sample for otadomi.",
+      "Main stories: rain-leak room, keyhole at detached room, room-swap hell."
+    ]
+  },
+  "raw": {
+    "bookings": [
+      {
+        "orderNumber": "RZDY-TSUBAKI-0422",
+        "status": "CONFIRMED",
+        "customer": {
+          "firstName": "Ayane",
+          "lastName": "Manabe",
+          "email": "ayane.manabe@example.jp",
+          "phone": "090-8899-1122"
+        },
+        "items": [
+          {
+            "productCode": "RYK-HANARE-001",
+            "productName": "離れ・椿 一泊二食",
+            "startTimeLocal": "2026-04-22 15:00:00",
+            "quantities": [
+              {
+                "label": "Adult",
+                "value": 1
+              }
+            ],
+            "totalAmount": 42000,
+            "currency": "JPY"
+          }
+        ],
+        "resellerReference": "DIRECT-TSUBAKI-0422",
+        "resellerComments": "離れ指定",
+        "internalNotes": "離れ椿 / 古い建具 / 夜間見回り不要",
+        "sourceLabel": "Official",
+        "staffLabel": "番場"
+      },
+      {
+        "orderNumber": "RZDY-ROOM-0514A",
+        "status": "CONFIRMED",
+        "customer": {
+          "firstName": "Junichi",
+          "lastName": "Hidaka",
+          "email": "hidaka.j@example.jp",
+          "phone": "090-3322-1100"
+        },
+        "items": [
+          {
+            "productCode": "RYK-HONKAN-10",
+            "productName": "本館 和室10畳",
+            "startTimeLocal": "2026-05-14 15:00:00",
+            "quantities": [
+              {
+                "label": "Adult",
+                "value": 2
+              }
+            ],
+            "totalAmount": 36000,
+            "currency": "JPY"
+          }
+        ],
+        "resellerReference": "OTA-ROOM-0514A",
+        "resellerComments": "静かな部屋希望",
+        "internalNotes": "隣室いびき苦情",
+        "sourceLabel": "Direct",
+        "staffLabel": "小川"
+      },
+      {
+        "orderNumber": "RZDY-ROOM-0514B",
+        "status": "CONFIRMED",
+        "customer": {
+          "firstName": "Mayumi",
+          "lastName": "Tachibana",
+          "email": "tachibana.m@example.jp",
+          "phone": "090-2244-6600"
+        },
+        "items": [
+          {
+            "productCode": "RYK-HONKAN-08",
+            "productName": "本館 和室8畳",
+            "startTimeLocal": "2026-05-14 15:00:00",
+            "quantities": [
+              {
+                "label": "Adult",
+                "value": 2
+              },
+              {
+                "label": "Child",
+                "value": 1
+              }
+            ],
+            "totalAmount": 34800,
+            "currency": "JPY"
+          }
+        ],
+        "resellerReference": "OTA-ROOM-0514B",
+        "resellerComments": "家族利用",
+        "internalNotes": "部屋移動候補",
+        "sourceLabel": "Direct",
+        "staffLabel": "小川"
+      },
+      {
+        "orderNumber": "RZDY-ROOM-0513C",
+        "status": "CONFIRMED",
+        "customer": {
+          "firstName": "Toru",
+          "lastName": "Shimazaki",
+          "email": "shimazaki.t@example.jp",
+          "phone": "090-7766-3300"
+        },
+        "items": [
+          {
+            "productCode": "RYK-HONKAN-CORNER",
+            "productName": "本館 角部屋",
+            "startTimeLocal": "2026-05-13 15:00:00",
+            "quantities": [
+              {
+                "label": "Adult",
+                "value": 1
+              }
+            ],
+            "totalAmount": 19800,
+            "currency": "JPY"
+          }
+        ],
+        "resellerReference": "OTA-ROOM-0513C",
+        "resellerComments": "ビジネス利用",
+        "internalNotes": "延泊希望 / チェックアウト処理未修正",
+        "sourceLabel": "Official",
+        "staffLabel": "中西"
+      }
+    ]
+  }
+}

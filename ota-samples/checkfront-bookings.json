@@ -1,0 +1,164 @@
+{
+  "_meta": {
+    "source": "checkfront",
+    "transportMode": "api_poll",
+    "confidence": "story_driven_sample",
+    "capturedAt": "2026-04-20T00:00:00Z",
+    "notes": [
+      "Story-driven sample for private troubles inside the ryokan.",
+      "Date is derived from booking code suffix when sidecar product metadata does not match."
+    ]
+  },
+  "raw": {
+    "bookings": [
+      {
+        "id": "cf_bk_9501",
+        "code": "WALLET-0427",
+        "status": "PAID",
+        "productId": "貸切露天プレミアム",
+        "eventId": "evt_0427",
+        "customer": {
+          "id": "cf_cust_9501",
+          "name": "堂本 俊介",
+          "email": "domoto.shunsuke@example.jp"
+        },
+        "guests": [
+          {
+            "id": "cf_g_9501",
+            "name": "堂本 俊介",
+            "guestTypeId": "adult"
+          }
+        ],
+        "notes": [
+          {
+            "type": "customer",
+            "body": "ラウンジ利用予定"
+          }
+        ],
+        "transactions": [
+          {
+            "id": "txn_9501",
+            "amount": 52000,
+            "currency": "JPY"
+          }
+        ]
+      },
+      {
+        "id": "cf_bk_9502",
+        "code": "OBI-0502",
+        "status": "PAID",
+        "productId": "本館和室 女子旅",
+        "eventId": "evt_0502",
+        "customer": {
+          "id": "cf_cust_9502",
+          "name": "西野 美帆",
+          "email": "nishino.miho@example.jp"
+        },
+        "guests": [
+          {
+            "id": "cf_g_9502a",
+            "name": "西野 美帆",
+            "guestTypeId": "adult"
+          },
+          {
+            "id": "cf_g_9502b",
+            "name": "江口 理沙",
+            "guestTypeId": "adult"
+          }
+        ],
+        "notes": [
+          {
+            "type": "customer",
+            "body": "友人同士 / 色浴衣希望"
+          }
+        ],
+        "transactions": [
+          {
+            "id": "txn_9502",
+            "amount": 29800,
+            "currency": "JPY"
+          }
+        ]
+      },
+      {
+        "id": "cf_bk_9503",
+        "code": "BATH-0517",
+        "status": "PAID",
+        "productId": "一泊二食 マタニティ",
+        "eventId": "evt_0517",
+        "customer": {
+          "id": "cf_cust_9503",
+          "name": "高岡 七海",
+          "email": "takaoka.nanami@example.jp"
+        },
+        "guests": [
+          {
+            "id": "cf_g_9503",
+            "name": "高岡 七海",
+            "guestTypeId": "adult"
+          }
+        ],
+        "notes": [
+          {
+            "type": "customer",
+            "body": "体調により朝食を部屋出し希望"
+          }
+        ],
+        "transactions": [
+          {
+            "id": "txn_9503",
+            "amount": 31200,
+            "currency": "JPY"
+          }
+        ]
+      },
+      {
+        "id": "cf_bk_9504",
+        "code": "FAM-0525",
+        "status": "PAID",
+        "productId": "ファミリープラン",
+        "eventId": "evt_0525",
+        "customer": {
+          "id": "cf_cust_9504",
+          "name": "高木 聡子",
+          "email": "takagi.satoko@example.jp"
+        },
+        "guests": [
+          {
+            "id": "cf_g_9504a",
+            "name": "高木 聡子",
+            "guestTypeId": "adult"
+          },
+          {
+            "id": "cf_g_9504b",
+            "name": "高木 恒一",
+            "guestTypeId": "adult"
+          },
+          {
+            "id": "cf_g_9504c",
+            "name": "高木 莉子",
+            "guestTypeId": "child"
+          },
+          {
+            "id": "cf_g_9504d",
+            "name": "高木 陸",
+            "guestTypeId": "child"
+          }
+        ],
+        "notes": [
+          {
+            "type": "customer",
+            "body": "子ども食 / アレルギーなし"
+          }
+        ],
+        "transactions": [
+          {
+            "id": "txn_9504",
+            "amount": 38800,
+            "currency": "JPY"
+          }
+        ]
+      }
+    ]
+  }
+}

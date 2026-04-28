@@ -1,0 +1,6 @@
+Order Number,Order Status,[Code] Product / Option,Customer,Amount,Currency,Payment Status,Balance,Source,Channel Order Number,Order Date,Departure Date,Person in Charge,Voucher Status,Guide / Driver,Customer Notes,Special Requirements
+RZ-20260418-3301,Confirmed,[RYK-STAY-STD] 本館 / 標準和室,倉持 美月,28600,JPY,Paid,0,Direct,DIRECT-KM-3301,2026-04-18T11:20:00+09:00,2026-04-24 17:20,新井,Generated,Pickup Van 3,駅送迎希望,修善寺駅 17:20 最終便
+RZ-20260418-3302,Confirmed,[RYK-STAY-STD] 本館 / 標準和室,藤沢 美咲,28600,JPY,Paid,0,Direct,DIRECT-FM-3302,2026-04-18T11:28:00+09:00,2026-04-24 13:10,新井,Generated,Pickup Van 1,先に到着予定,単独チェックイン
+RZ-20260417-3303,Confirmed,[RYK-STAY-ANNIV] 本館 / 川側記念日プラン,鳴海 悠人,46200,JPY,Paid,0,Official,WEB-NY-3303,2026-04-17T20:10:00+09:00,2026-04-24 15:00,近藤,Generated,,記念日利用,夕食時間 19:00
+RZ-20260518-4301,Confirmed,[RYK-STAY-FAM] 本館 / 親子二人旅プラン,小田切 沙耶,33800,JPY,Paid,0,Direct,DIRECT-OD-4301,2026-05-18T09:45:00+09:00,2026-05-24 16:40,小林,Generated,Pickup Van 2,子ども1名同伴,北口ロータリー迎え
+RZ-20260501-4302,Confirmed,[RYK-STAY-STD] 本館 / 標準和室,川村 理恵,25400,JPY,Paid,0,Official,WEB-KR-4302,2026-05-01T12:30:00+09:00,2026-05-03 15:20,村上,Generated,Pickup Van 1,通常予約,
