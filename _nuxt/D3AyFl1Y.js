@@ -1,1 +1,0 @@
-import{O as c,o as n,c as r,P as p,y as u,l as d,U as s}from"./CqAVyZEI.js";const i={base:""},y={__name:"Tbody",props:{class:{type:null,required:!1}},setup(e){const o=e,a=c(),t=d(()=>s({extend:s(i),...a.uiPro?.prose?.tbody||{}}));return(l,m)=>(n(),r("tbody",{class:u(t.value({class:o.class}))},[p(l.$slots,"default")],2))}};export{y as default};

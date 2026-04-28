@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{o as s,c as t,a,P as r}from"./Q3q_fYNM.js";const c={},n={class:"otanote-cover-edge-shell"},l={class:"otanote-cover-shell"};function _(e,d){return s(),t("div",n,[a("div",l,[r(e.$slots,"default")])])}const m=o(c,[["render",_]]);export{m as default};

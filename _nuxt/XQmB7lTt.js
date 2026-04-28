@@ -1,1 +1,0 @@
-import{O as r,o as l,c,P as p,y as u,l as i,U as s}from"./Q3q_fYNM.js";const m={base:""},g={__name:"Strong",props:{class:{type:null,required:!1}},setup(e){const o=e,a=r(),t=i(()=>s({extend:s(m),...a.uiPro?.prose?.strong||{}}));return(n,f)=>(l(),c("strong",{class:u(t.value({class:o.class}))},[p(n.$slots,"default")],2))}};export{g as default};
