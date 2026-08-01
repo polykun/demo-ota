@@ -7,6 +7,13 @@ on:
     paths:
       - 'tools/build_signal.py'
       - '.github/workflows/temp-build-signal.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'tools/build_signal.py'
+      - '.github/workflows/temp-build-signal.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
