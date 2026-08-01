@@ -1,6 +1,0 @@
-Local Booking Ref,Source,Product Code,Option Code,Travel Date,Start Time,Adults,Children,Booker Name,Booker Phone,Payment Status,Special Requirements,Pickup Location,Internal Note
-MAN-E203-0519,Ledger,東棟203号室 一泊二食,E203,2026-05-19,15:00,1,0,早川 真司,09055667788,paid,東棟203号指定,,女将確認済 / 遺影持参 / 203号
-MAN-TAEKO-0423,Ledger,潮見の間 一泊二食,SEA,2026-04-23,16:00,1,0,沢渡 妙子,09077112233,paid,海の見える部屋希望,,常連扱い / 番頭対応
-MAN-CHILD-0505,Phone,山百合の間 一泊二食,YAMAYURI,2026-05-05,15:30,1,0,白石 紀代,09033445566,paid,静かな席希望,,子ども膳 1名分 慣例
-MAN-OLDNAME-0512,Ledger,月見の間 一泊二食,TSUKIMI,2026-05-12,15:00,1,0,真山 恒一,09099887766,paid,若女将へ挨拶希望,,古くからの常連 / 私物返却あり
-MAN-NORMAL-0426,Phone,若竹の間 一泊二食,WAKATAKE,2026-04-26,15:30,2,1,北条 理沙,09012349876,unpaid,子ども用布団1組追加,修善寺駅,前日確認済み
