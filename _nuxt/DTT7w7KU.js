@@ -1,1 +1,0 @@
-import{d as e,c as t,o as c}from"./B0YU6gIn.js";const o={class:"flex flex-col items-center justify-center gap-4 p-4"},_=e({__name:"check",setup(s){return(n,a)=>(c(),t("div",o," ログインしてないとこのページは見れないはず "))}});export{_ as default};
